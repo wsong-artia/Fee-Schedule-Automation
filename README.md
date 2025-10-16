@@ -1,6 +1,6 @@
 # Fee-Schedule-Automation
 
-The purpose of this project is to improve efficiency of our quarterly fee schedule research by automating the process. Currently Analytics team invests about 100+ hours per quarter to complete research for ~30 HCPCS/CPT codes; we hope to significantly reduce the time spent on research by webscraping as much states' fee schedules as possible.
+The purpose of this project is to improve efficiency of our quarterly fee schedule research by automating the process. Currently, Analytics team invests about 100+ hours per quarter to complete research for ~30 HCPCS/CPT codes; we hope to significantly reduce the time spent on research by webscraping as much states' fee schedules as possible.
 
 The automation process follows these steps:
 1. Grab files - Webscrape from individual state's fee schedule website -> download .xlsx, .csv, .docx, .xml, or .pdf file
