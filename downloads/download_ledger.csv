@@ -1,0 +1,2 @@
+timestamp,file,url,size_bytes,sha256,status,note
+2025-12-08T08:34:57,downloads\notes_data.docx,https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/7F47F6EF-FCF3-49B5-9BD8-543F94AD9E46?download,21937,208d11702efc6e471139206cbd25c0d9caa530099f638aa0c66e4be5186a5856,OK,Small file (<50000 bytes)

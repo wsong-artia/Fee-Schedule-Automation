@@ -1,0 +1,6 @@
+[2025-12-08 08:34:56] Fetching rates page: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/rates?tab=rates
+[2025-12-08 08:34:56] Could not find asset URL in HTML. Falling back to last-known asset URL.
+[2025-12-08 08:34:56] Asset URL resolved: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/7F47F6EF-FCF3-49B5-9BD8-543F94AD9E46?download
+[2025-12-08 08:34:56] Downloading asset: https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/7F47F6EF-FCF3-49B5-9BD8-543F94AD9E46?download
+[2025-12-08 08:34:57] WARNING: downloaded file is unexpectedly small (21937 bytes). Content-Type=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+[2025-12-08 08:34:57] Saved file: downloads\notes_data.docx (size=21937 bytes, sha256=208d11702efc..., Content-Type=application/vnd.openxmlformats-officedocument.wordprocessingml.document)
